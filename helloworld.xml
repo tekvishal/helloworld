@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.x.x" type="plugin" group="content">
+ <name>plg_content_helloworld</name>
+ <creationDate>Nov 14th, 2017</creationDate>
+ <copyright>TechJoomla</copyright>
+ <version>1.0</version>
+ <description>Simple Hello World Plugin</description>
+ <files>
+ <filename plugin="helloworld">helloworld.php</filename>
+ </files>
+<languages folder="language">
+	<language tag="en-GB">en-GB/en-GB.plg_content_helloworld.ini</language>
+	<language tag="en-GB">en-GB/en-GB.plg_content_helloworld.sys.ini</language>
+</languages>
+</extension>
